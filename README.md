@@ -1,4 +1,4 @@
-# Rate-My-Professors-Sentiment-Analysis
+# Rate My Professors Sentiment Analysis
 
 <h6>Description</h6>
                             <p>
